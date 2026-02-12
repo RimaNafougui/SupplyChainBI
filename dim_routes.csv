@@ -1,0 +1,7 @@
+Route_Type,Origin_City,Destination_City,Route_ID
+Pacific,"Shanghai, CN","Los Angeles, US",1
+Intra-Asia,"Tokyo, JP","Singapore, SG",2
+Suez,"Shenzhen, CN","Rotterdam, NL",3
+Commodity,"Santos, BR","Shanghai, CN",4
+Atlantic,"Hamburg, DE","New York, US",5
+Suez,"Mumbai, IN","Felixstowe, UK",6
