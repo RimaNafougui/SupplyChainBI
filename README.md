@@ -30,7 +30,7 @@ This project simulates a real-world supply chain analytics scenario where a glob
 - Evaluate the effectiveness of mitigation strategies (expedited shipping, re-routing)
 - Optimize decision-making for future disruptions
 
-**Dataset:** 10,000 shipment records across major global trade routes (2024-2025)  
+**Dataset:** [10,000 shipment records across major global trade routes (2023-2025)](https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience)  
 **Tools:** Python, Power BI, DAX, Star Schema Modeling  
 **Deliverable:** 4-page interactive dashboard with prescriptive analytics
 
@@ -308,6 +308,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Dataset inspired by real-world supply chain disruptions (Suez Canal crisis, COVID-19 impacts)
+- Dataset : [Global Supply Chain Disruption & Resilience](https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience)
 - Methodology influenced by supply chain management best practices
 - Dashboard design follows Power BI visualization guidelines
