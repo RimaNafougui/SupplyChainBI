@@ -1,0 +1,7 @@
+Route_Type,Origin_City,Origin_Name,Origin_Lat,Origin_Lon,Destination_City,Dest_Name,Dest_Lat,Dest_Lon,Risk_Level
+Pacific,"Shanghai, CN",Shanghai,31.2304,121.4737,"Los Angeles, US",Los Angeles,34.0522,-118.2437,High
+Intra-Asia,"Tokyo, JP",Tokyo,35.6762,139.6503,"Singapore, SG",Singapore,1.3521,103.8198,Medium
+Suez,"Shenzhen, CN",Shenzhen,22.5431,114.0579,"Rotterdam, NL",Rotterdam,51.9244,4.4777,High
+Commodity,"Santos, BR",Santos,-23.9608,-46.3336,"Shanghai, CN",Shanghai,31.2304,121.4737,High
+Atlantic,"Hamburg, DE",Hamburg,53.5753,10.0153,"New York, US",New York,40.7128,-74.006,Medium
+Suez,"Mumbai, IN",Mumbai,19.076,72.8777,"Felixstowe, UK",Felixstowe,51.9639,1.3517,High

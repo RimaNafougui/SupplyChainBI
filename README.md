@@ -1,6 +1,11 @@
 # Global Supply Chain Disruption & Mitigation Analytics
 
 **An end-to-end data analytics project analyzing 10,000 global shipments to identify disruption patterns and evaluate mitigation strategy effectiveness.**
+## Live Dashboard
+
+**[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/1b049350-80b0-4644-bd5b-46ca816147c7/1c89a3a18280f05f105e?experience=power-bi)**
+
+*Note: Requires Microsoft Edge or Chrome*
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
