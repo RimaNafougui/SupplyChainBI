@@ -297,9 +297,9 @@ This generates:
 ## Contact
 
 **Your Name**  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/Mercuryy200](https://linkedin.com/in/Mercuryy200)  
-GitHub: [github.com/rima-nafougui](https://github.com/rima-nafougui)
+Email: nafouguirima@gmail.com
+LinkedIn: [linkedin.com/in/rima-nafougui](https://linkedin.com/in/Rima-Nafougui)  
+GitHub: [github.com/rimanafougui](https://github.com/rimanafougui)
 
 ---
 
